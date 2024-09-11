@@ -18,7 +18,7 @@ public:
     string name;
     int marks;
 
-    void initStudent(int a=0,string s="",int c=0)          // initializing data
+    void initStudent()          // initializing data
     {
         rollno = 0;
         name = "";
